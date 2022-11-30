@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 0,
+  "prettier.configPath": "./.prettierrc",
+  "cSpell.words": [
+    "camelcase",
+    "commitlint"
+  ],
+  "editor.inlineSuggest.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "search.showLineNumbers": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.list.openMode": "doubleClick",
+}
